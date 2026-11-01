@@ -1,0 +1,288 @@
+[
+    {
+        "title": "Personal Portfolio Website",
+        "description": "Build a responsive personal portfolio showcasing your projects, skills, and contact information.",
+        "skills": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        "difficulty": "beginner",
+        "suggested_deliverables": [
+            "Multi-page website",
+            "Responsive layout",
+            "Contact form",
+            "Deployed live URL"
+        ]
+    },
+    {
+        "title": "React Todo App with State Management",
+        "description": "Build a feature-rich todo app with filtering, local persistence, and clean component architecture.",
+        "skills": [
+            "React",
+            "JavaScript",
+            "CSS"
+        ],
+        "difficulty": "beginner",
+        "suggested_deliverables": [
+            "Add/edit/delete tasks",
+            "Filter tasks by status",
+            "LocalStorage persistence",
+            "Deployed demo"
+        ]
+    },
+    {
+        "title": "REST API with Node.js and Express",
+        "description": "Build a CRUD REST API for a resource of your choice (e.g., books, products) with full validation and error handling.",
+        "skills": [
+            "Node.js",
+            "Express",
+            "REST API",
+            "JavaScript"
+        ],
+        "difficulty": "beginner",
+        "suggested_deliverables": [
+            "CRUD endpoints",
+            "Input validation",
+            "Error handling",
+            "API documentation"
+        ]
+    },
+    {
+        "title": "Full Stack Blog Platform",
+        "description": "Build a blog platform with user authentication, post creation, and a React frontend backed by a Node.js API and PostgreSQL.",
+        "skills": [
+            "React",
+            "Node.js",
+            "Express",
+            "PostgreSQL",
+            "REST API",
+            "JavaScript"
+        ],
+        "difficulty": "intermediate",
+        "suggested_deliverables": [
+            "User auth",
+            "CRUD blog posts",
+            "Rich text editor",
+            "Deployed app"
+        ]
+    },
+    {
+        "title": "TypeScript API with Zod Validation",
+        "description": "Convert or build an Express API fully in TypeScript with strict typing and Zod schema validation on all inputs.",
+        "skills": [
+            "TypeScript",
+            "Node.js",
+            "Express",
+            "REST API"
+        ],
+        "difficulty": "intermediate",
+        "suggested_deliverables": [
+            "Strict TypeScript config",
+            "Zod-validated endpoints",
+            "Unit tests",
+            "Comprehensive error responses"
+        ]
+    },
+    {
+        "title": "Next.js E-Commerce Storefront",
+        "description": "Build a product catalog and checkout flow with server-side rendering, dynamic routing, and a headless CMS or local data.",
+        "skills": [
+            "Next.js",
+            "React",
+            "TypeScript",
+            "Tailwind CSS"
+        ],
+        "difficulty": "intermediate",
+        "suggested_deliverables": [
+            "Product listing and detail pages",
+            "Cart functionality",
+            "SSR/SSG pages",
+            "Responsive Tailwind UI"
+        ]
+    },
+    {
+        "title": "Dockerized Microservice",
+        "description": "Take an existing API and containerize it with Docker. Add docker-compose for multi-service orchestration.",
+        "skills": [
+            "Docker",
+            "Linux",
+            "Node.js"
+        ],
+        "difficulty": "intermediate",
+        "suggested_deliverables": [
+            "Dockerfile",
+            "docker-compose.yml",
+            "Multi-stage build",
+            "Health check endpoint"
+        ]
+    },
+    {
+        "title": "CI/CD Pipeline with GitHub Actions",
+        "description": "Set up a complete CI/CD pipeline that runs tests, lints, and deploys on push to main.",
+        "skills": [
+            "CI/CD",
+            "Git",
+            "Testing",
+            "Docker"
+        ],
+        "difficulty": "intermediate",
+        "suggested_deliverables": [
+            "GitHub Actions workflow",
+            "Automated test run",
+            "Build artifact",
+            "Deployment step"
+        ]
+    },
+    {
+        "title": "Sentiment Analysis API",
+        "description": "Build a Python FastAPI service that analyzes text sentiment using a pre-trained model from HuggingFace.",
+        "skills": [
+            "Python",
+            "FastAPI",
+            "Natural Language Processing",
+            "Machine Learning"
+        ],
+        "difficulty": "intermediate",
+        "suggested_deliverables": [
+            "REST endpoint",
+            "Pre-trained model integration",
+            "Confidence scores",
+            "Swagger docs"
+        ]
+    },
+    {
+        "title": "ML Model Training Pipeline",
+        "description": "Train a classification model on a public dataset using scikit-learn, document evaluation metrics, and expose it via an API.",
+        "skills": [
+            "Python",
+            "scikit-learn",
+            "Machine Learning",
+            "Python Data Science"
+        ],
+        "difficulty": "intermediate",
+        "suggested_deliverables": [
+            "Clean dataset pipeline",
+            "Trained model",
+            "Evaluation metrics report",
+            "API for predictions"
+        ]
+    },
+    {
+        "title": "Real-Time Chat Application",
+        "description": "Build a real-time chat app using WebSockets (Socket.io), React frontend, and Node.js backend with rooms and message history.",
+        "skills": [
+            "React",
+            "Node.js",
+            "JavaScript",
+            "PostgreSQL"
+        ],
+        "difficulty": "intermediate",
+        "suggested_deliverables": [
+            "Real-time messaging",
+            "Multiple rooms",
+            "Message persistence",
+            "Authentication"
+        ]
+    },
+    {
+        "title": "GraphQL API with Apollo",
+        "description": "Build a GraphQL API with type-safe schema, resolvers, and a React + Apollo Client frontend.",
+        "skills": [
+            "GraphQL",
+            "Node.js",
+            "React",
+            "TypeScript"
+        ],
+        "difficulty": "intermediate",
+        "suggested_deliverables": [
+            "Type-safe schema",
+            "CRUD resolvers",
+            "Apollo client",
+            "Client-side cache"
+        ]
+    },
+    {
+        "title": "Data Dashboard with Recharts",
+        "description": "Create an analytics dashboard that fetches real data from a public API and visualizes it with charts.",
+        "skills": [
+            "React",
+            "TypeScript",
+            "JavaScript"
+        ],
+        "difficulty": "beginner",
+        "suggested_deliverables": [
+            "Multiple chart types",
+            "Date filter",
+            "Responsive layout",
+            "Loading/error states"
+        ]
+    },
+    {
+        "title": "Distributed System Design Case Study",
+        "description": "Design and document a scalable system (e.g., URL shortener, social feed) covering database, caching, load balancing, and tradeoffs.",
+        "skills": [
+            "System Design",
+            "Algorithms",
+            "PostgreSQL"
+        ],
+        "difficulty": "advanced",
+        "suggested_deliverables": [
+            "Architecture diagram",
+            "Component breakdown",
+            "Tradeoff analysis",
+            "Scalability plan"
+        ]
+    },
+    {
+        "title": "Kubernetes Deployment of a Microservices App",
+        "description": "Deploy a multi-service application to a local Kubernetes cluster using Helm charts, namespaces, and configmaps.",
+        "skills": [
+            "Kubernetes",
+            "Docker",
+            "Linux",
+            "CI/CD"
+        ],
+        "difficulty": "advanced",
+        "suggested_deliverables": [
+            "Helm chart",
+            "Deployment YAMLs",
+            "Service and ingress",
+            "Rollout strategy documented"
+        ]
+    },
+    {
+        "title": "Custom NLP Text Classifier",
+        "description": "Train a text classifier with Transformers/PyTorch on a labeled dataset (e.g., news topic classification).",
+        "skills": [
+            "Natural Language Processing",
+            "Deep Learning",
+            "PyTorch",
+            "Python"
+        ],
+        "difficulty": "advanced",
+        "suggested_deliverables": [
+            "Trained model",
+            "F1/Accuracy report",
+            "Inference API",
+            "Error analysis"
+        ]
+    },
+    {
+        "title": "ETL Data Pipeline with Python",
+        "description": "Build an end-to-end ETL pipeline that ingests, transforms, and loads data from a public API into a database.",
+        "skills": [
+            "Data Engineering",
+            "Python",
+            "SQL",
+            "PostgreSQL"
+        ],
+        "difficulty": "intermediate",
+        "suggested_deliverables": [
+            "Ingestion script",
+            "Transformation logic",
+            "PostgreSQL schema",
+            "Scheduled run config"
+        ]
+    }
+]

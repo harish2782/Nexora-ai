@@ -1,0 +1,182 @@
+[
+    {
+        "source": "HTML",
+        "target": "CSS",
+        "type": "prerequisite",
+        "rationale": "Basic HTML structure is needed before applying CSS styles"
+    },
+    {
+        "source": "HTML",
+        "target": "JavaScript",
+        "type": "prerequisite",
+        "rationale": "HTML document structure is needed before DOM manipulation with JS"
+    },
+    {
+        "source": "CSS",
+        "target": "Tailwind CSS",
+        "type": "prerequisite",
+        "rationale": "Fundamental CSS understanding required to use utility frameworks effectively"
+    },
+    {
+        "source": "JavaScript",
+        "target": "TypeScript",
+        "type": "prerequisite",
+        "rationale": "TypeScript is a typed superset of JavaScript"
+    },
+    {
+        "source": "JavaScript",
+        "target": "React",
+        "type": "prerequisite",
+        "rationale": "React is a JavaScript library"
+    },
+    {
+        "source": "JavaScript",
+        "target": "Node.js",
+        "type": "prerequisite",
+        "rationale": "Node.js runs JavaScript on the server"
+    },
+    {
+        "source": "React",
+        "target": "Next.js",
+        "type": "prerequisite",
+        "rationale": "Next.js is built on top of React"
+    },
+    {
+        "source": "Node.js",
+        "target": "Express",
+        "type": "prerequisite",
+        "rationale": "Express is a Node.js web framework"
+    },
+    {
+        "source": "SQL",
+        "target": "PostgreSQL",
+        "type": "prerequisite",
+        "rationale": "PostgreSQL requires SQL knowledge"
+    },
+    {
+        "source": "Python",
+        "target": "scikit-learn",
+        "type": "prerequisite",
+        "rationale": "scikit-learn is a Python ML library"
+    },
+    {
+        "source": "Python",
+        "target": "Python Data Science",
+        "type": "prerequisite",
+        "rationale": "Data science tools are Python-based"
+    },
+    {
+        "source": "Python",
+        "target": "FastAPI",
+        "type": "prerequisite",
+        "rationale": "FastAPI is a Python web framework"
+    },
+    {
+        "source": "Python",
+        "target": "TensorFlow",
+        "type": "prerequisite",
+        "rationale": "TensorFlow has a Python API"
+    },
+    {
+        "source": "Python",
+        "target": "PyTorch",
+        "type": "prerequisite",
+        "rationale": "PyTorch's primary interface is Python"
+    },
+    {
+        "source": "Machine Learning",
+        "target": "Deep Learning",
+        "type": "prerequisite",
+        "rationale": "Deep learning is a specialized area of machine learning"
+    },
+    {
+        "source": "Python Data Science",
+        "target": "Machine Learning",
+        "type": "prerequisite",
+        "rationale": "ML in Python relies heavily on numpy/pandas proficiency"
+    },
+    {
+        "source": "scikit-learn",
+        "target": "Machine Learning",
+        "type": "commonly_used_together",
+        "rationale": "scikit-learn is the primary ML toolkit in Python"
+    },
+    {
+        "source": "Deep Learning",
+        "target": "TensorFlow",
+        "type": "commonly_used_together",
+        "rationale": "TensorFlow is a leading deep learning framework"
+    },
+    {
+        "source": "Deep Learning",
+        "target": "PyTorch",
+        "type": "commonly_used_together",
+        "rationale": "PyTorch is a leading deep learning framework"
+    },
+    {
+        "source": "Machine Learning",
+        "target": "Natural Language Processing",
+        "type": "prerequisite",
+        "rationale": "NLP relies heavily on ML techniques"
+    },
+    {
+        "source": "Machine Learning",
+        "target": "Computer Vision",
+        "type": "prerequisite",
+        "rationale": "Computer vision relies on ML/DL techniques"
+    },
+    {
+        "source": "Linux",
+        "target": "Docker",
+        "type": "prerequisite",
+        "rationale": "Docker works best with Linux knowledge"
+    },
+    {
+        "source": "Docker",
+        "target": "Kubernetes",
+        "type": "prerequisite",
+        "rationale": "Kubernetes orchestrates Docker containers"
+    },
+    {
+        "source": "Git",
+        "target": "CI/CD",
+        "type": "prerequisite",
+        "rationale": "CI/CD pipelines are triggered from Git repository events"
+    },
+    {
+        "source": "Node.js",
+        "target": "REST API",
+        "type": "commonly_used_together",
+        "rationale": "Node.js is commonly used to build REST APIs"
+    },
+    {
+        "source": "Express",
+        "target": "REST API",
+        "type": "commonly_used_together",
+        "rationale": "Express is often used to implement RESTful services"
+    },
+    {
+        "source": "React",
+        "target": "TypeScript",
+        "type": "commonly_used_together",
+        "rationale": "TypeScript is recommended for large React applications"
+    },
+    {
+        "source": "React",
+        "target": "Tailwind CSS",
+        "type": "commonly_used_together",
+        "rationale": "Tailwind is widely adopted in React projects"
+    },
+    {
+        "source": "Algorithms",
+        "target": "System Design",
+        "type": "prerequisite",
+        "rationale": "Strong algorithm foundations support system design thinking"
+    },
+    {
+        "source": "REST API",
+        "target": "GraphQL",
+        "type": "related",
+        "rationale": "Both are API paradigms; GraphQL is often adopted as an alternative to REST"
+    }
+]

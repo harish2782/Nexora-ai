@@ -1,0 +1,385 @@
+[
+    {
+        "canonical_name": "JavaScript",
+        "category": "Programming Language",
+        "aliases": [
+            "JS",
+            "ECMAScript",
+            "ES6",
+            "ES2015"
+        ],
+        "description": "Versatile scripting language for web development, used in both frontend and backend (Node.js)."
+    },
+    {
+        "canonical_name": "TypeScript",
+        "category": "Programming Language",
+        "aliases": [
+            "TS"
+        ],
+        "description": "Typed superset of JavaScript that compiles to plain JS."
+    },
+    {
+        "canonical_name": "Python",
+        "category": "Programming Language",
+        "aliases": [
+            "py",
+            "python3"
+        ],
+        "description": "High-level, general-purpose language widely used in data science, ML, web, and automation."
+    },
+    {
+        "canonical_name": "HTML",
+        "category": "Markup",
+        "aliases": [
+            "HTML5",
+            "HyperText Markup Language"
+        ],
+        "description": "Standard markup language for creating web pages."
+    },
+    {
+        "canonical_name": "CSS",
+        "category": "Styling",
+        "aliases": [
+            "CSS3",
+            "Cascading Style Sheets"
+        ],
+        "description": "Style sheet language for describing the presentation of HTML documents."
+    },
+    {
+        "canonical_name": "React",
+        "category": "Frontend Framework",
+        "aliases": [
+            "React.js",
+            "ReactJS"
+        ],
+        "description": "Declarative JavaScript library for building user interfaces."
+    },
+    {
+        "canonical_name": "Node.js",
+        "category": "Runtime",
+        "aliases": [
+            "Node",
+            "NodeJS"
+        ],
+        "description": "JavaScript runtime built on Chrome's V8 engine for server-side development."
+    },
+    {
+        "canonical_name": "Express",
+        "category": "Backend Framework",
+        "aliases": [
+            "Express.js",
+            "ExpressJS"
+        ],
+        "description": "Minimal and flexible Node.js web application framework."
+    },
+    {
+        "canonical_name": "PostgreSQL",
+        "category": "Database",
+        "aliases": [
+            "Postgres",
+            "pg"
+        ],
+        "description": "Advanced open-source relational database management system."
+    },
+    {
+        "canonical_name": "SQL",
+        "category": "Database",
+        "aliases": [
+            "Structured Query Language"
+        ],
+        "description": "Language for managing and querying relational databases."
+    },
+    {
+        "canonical_name": "MongoDB",
+        "category": "Database",
+        "aliases": [
+            "Mongo"
+        ],
+        "description": "Document-oriented NoSQL database."
+    },
+    {
+        "canonical_name": "REST API",
+        "category": "Architecture",
+        "aliases": [
+            "REST",
+            "RESTful API",
+            "RESTful"
+        ],
+        "description": "Architectural style for designing networked applications using HTTP."
+    },
+    {
+        "canonical_name": "GraphQL",
+        "category": "API",
+        "aliases": [
+            "GQL"
+        ],
+        "description": "Query language and runtime for APIs."
+    },
+    {
+        "canonical_name": "Docker",
+        "category": "DevOps",
+        "aliases": [
+            "containerization"
+        ],
+        "description": "Platform for building, shipping, and running containerized applications."
+    },
+    {
+        "canonical_name": "Git",
+        "category": "Version Control",
+        "aliases": [
+            "version control",
+            "github",
+            "gitlab"
+        ],
+        "description": "Distributed version control system."
+    },
+    {
+        "canonical_name": "Machine Learning",
+        "category": "AI/ML",
+        "aliases": [
+            "ML",
+            "machine learning algorithms"
+        ],
+        "description": "Field of AI that enables systems to learn from data."
+    },
+    {
+        "canonical_name": "Deep Learning",
+        "category": "AI/ML",
+        "aliases": [
+            "DL",
+            "neural networks",
+            "deep neural networks"
+        ],
+        "description": "Subset of ML using multi-layered neural networks."
+    },
+    {
+        "canonical_name": "Python Data Science",
+        "category": "Data Science",
+        "aliases": [
+            "pandas",
+            "numpy",
+            "data analysis",
+            "data science"
+        ],
+        "description": "Using Python libraries like pandas, numpy, and matplotlib for data analysis."
+    },
+    {
+        "canonical_name": "scikit-learn",
+        "category": "AI/ML",
+        "aliases": [
+            "sklearn"
+        ],
+        "description": "Python library for classical machine learning algorithms."
+    },
+    {
+        "canonical_name": "TensorFlow",
+        "category": "AI/ML",
+        "aliases": [
+            "tf",
+            "tensorflow2"
+        ],
+        "description": "Open-source ML framework by Google."
+    },
+    {
+        "canonical_name": "PyTorch",
+        "category": "AI/ML",
+        "aliases": [
+            "torch"
+        ],
+        "description": "Open-source ML framework by Meta with dynamic computation graphs."
+    },
+    {
+        "canonical_name": "AWS",
+        "category": "Cloud",
+        "aliases": [
+            "Amazon Web Services",
+            "EC2",
+            "S3",
+            "Lambda",
+            "AWS cloud"
+        ],
+        "description": "Comprehensive cloud computing platform by Amazon."
+    },
+    {
+        "canonical_name": "GCP",
+        "category": "Cloud",
+        "aliases": [
+            "Google Cloud Platform",
+            "Google Cloud"
+        ],
+        "description": "Google's cloud computing services."
+    },
+    {
+        "canonical_name": "Linux",
+        "category": "Operating System",
+        "aliases": [
+            "Unix",
+            "bash scripting",
+            "shell scripting",
+            "command line"
+        ],
+        "description": "Open-source operating system and proficiency with terminal/bash."
+    },
+    {
+        "canonical_name": "Algorithms",
+        "category": "Computer Science",
+        "aliases": [
+            "data structures and algorithms",
+            "DSA",
+            "algorithms and data structures"
+        ],
+        "description": "Fundamental computer science concepts including sorting, searching, and complexity analysis."
+    },
+    {
+        "canonical_name": "Object-Oriented Programming",
+        "category": "Programming Paradigm",
+        "aliases": [
+            "OOP",
+            "object oriented",
+            "classes and objects"
+        ],
+        "description": "Programming paradigm based on objects and classes."
+    },
+    {
+        "canonical_name": "System Design",
+        "category": "Architecture",
+        "aliases": [
+            "distributed systems",
+            "scalable systems",
+            "high level design"
+        ],
+        "description": "Designing scalable, distributed software systems."
+    },
+    {
+        "canonical_name": "CI/CD",
+        "category": "DevOps",
+        "aliases": [
+            "continuous integration",
+            "continuous deployment",
+            "GitHub Actions",
+            "Jenkins",
+            "pipelines"
+        ],
+        "description": "Practices for automating code integration, testing, and deployment."
+    },
+    {
+        "canonical_name": "Kubernetes",
+        "category": "DevOps",
+        "aliases": [
+            "K8s",
+            "container orchestration"
+        ],
+        "description": "Open-source container orchestration platform."
+    },
+    {
+        "canonical_name": "Natural Language Processing",
+        "category": "AI/ML",
+        "aliases": [
+            "NLP",
+            "text processing",
+            "text analysis"
+        ],
+        "description": "AI techniques for processing and understanding human language."
+    },
+    {
+        "canonical_name": "Computer Vision",
+        "category": "AI/ML",
+        "aliases": [
+            "CV",
+            "image processing",
+            "image recognition"
+        ],
+        "description": "AI field focused on enabling machines to interpret visual information."
+    },
+    {
+        "canonical_name": "Vue.js",
+        "category": "Frontend Framework",
+        "aliases": [
+            "Vue",
+            "VueJS"
+        ],
+        "description": "Progressive JavaScript framework for building user interfaces."
+    },
+    {
+        "canonical_name": "Angular",
+        "category": "Frontend Framework",
+        "aliases": [
+            "AngularJS",
+            "Angular 2+"
+        ],
+        "description": "Platform for building web applications with TypeScript."
+    },
+    {
+        "canonical_name": "Next.js",
+        "category": "Frontend Framework",
+        "aliases": [
+            "Nextjs",
+            "Next"
+        ],
+        "description": "React framework with server-side rendering and static generation."
+    },
+    {
+        "canonical_name": "Tailwind CSS",
+        "category": "Styling",
+        "aliases": [
+            "TailwindCSS",
+            "tailwind"
+        ],
+        "description": "Utility-first CSS framework for rapid UI development."
+    },
+    {
+        "canonical_name": "Testing",
+        "category": "Quality Assurance",
+        "aliases": [
+            "unit testing",
+            "integration testing",
+            "TDD",
+            "Jest",
+            "pytest",
+            "testing frameworks"
+        ],
+        "description": "Writing and maintaining automated tests to ensure code correctness."
+    },
+    {
+        "canonical_name": "Agile",
+        "category": "Methodology",
+        "aliases": [
+            "Scrum",
+            "kanban",
+            "sprint planning",
+            "agile methodology"
+        ],
+        "description": "Iterative development methodology emphasizing collaboration and flexibility."
+    },
+    {
+        "canonical_name": "Cybersecurity",
+        "category": "Security",
+        "aliases": [
+            "security",
+            "infosec",
+            "network security",
+            "penetration testing"
+        ],
+        "description": "Practices and technologies for protecting systems and networks."
+    },
+    {
+        "canonical_name": "Data Engineering",
+        "category": "Data",
+        "aliases": [
+            "ETL",
+            "data pipelines",
+            "data warehousing",
+            "Spark",
+            "Kafka"
+        ],
+        "description": "Building and maintaining data infrastructure and pipelines."
+    },
+    {
+        "canonical_name": "FastAPI",
+        "category": "Backend Framework",
+        "aliases": [
+            "Fast API"
+        ],
+        "description": "Modern, fast web framework for building Python APIs."
+    }
+]

@@ -1,0 +1,182 @@
+[
+    {
+        "title": "Frontend Developer",
+        "description": "Builds user-facing web applications. Focuses on UI/UX implementation, responsive design, and browser-side performance.",
+        "required_skills": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "React",
+            "Git"
+        ],
+        "preferred_skills": [
+            "TypeScript",
+            "Tailwind CSS",
+            "Next.js",
+            "Testing",
+            "REST API"
+        ]
+    },
+    {
+        "title": "Backend Developer",
+        "description": "Builds server-side applications, APIs, and database integrations. Focuses on scalability, security, and data management.",
+        "required_skills": [
+            "Node.js",
+            "Express",
+            "REST API",
+            "SQL",
+            "PostgreSQL",
+            "Git"
+        ],
+        "preferred_skills": [
+            "TypeScript",
+            "Docker",
+            "CI/CD",
+            "Testing",
+            "Algorithms"
+        ]
+    },
+    {
+        "title": "Full Stack Developer",
+        "description": "Works across the full web stack — frontend UI through backend services and databases.",
+        "required_skills": [
+            "JavaScript",
+            "React",
+            "Node.js",
+            "Express",
+            "PostgreSQL",
+            "Git",
+            "REST API"
+        ],
+        "preferred_skills": [
+            "TypeScript",
+            "Docker",
+            "Testing",
+            "CI/CD",
+            "Tailwind CSS"
+        ]
+    },
+    {
+        "title": "Machine Learning Engineer",
+        "description": "Designs and deploys machine learning models and pipelines into production systems.",
+        "required_skills": [
+            "Python",
+            "Machine Learning",
+            "scikit-learn",
+            "Python Data Science",
+            "Git"
+        ],
+        "preferred_skills": [
+            "Deep Learning",
+            "PyTorch",
+            "TensorFlow",
+            "Docker",
+            "Linux",
+            "CI/CD"
+        ]
+    },
+    {
+        "title": "Data Scientist",
+        "description": "Analyzes data to extract insights and build predictive models. Bridges statistics, ML, and domain expertise.",
+        "required_skills": [
+            "Python",
+            "Python Data Science",
+            "Machine Learning",
+            "scikit-learn",
+            "SQL"
+        ],
+        "preferred_skills": [
+            "Deep Learning",
+            "Natural Language Processing",
+            "Data Engineering",
+            "Git"
+        ]
+    },
+    {
+        "title": "DevOps Engineer",
+        "description": "Bridges development and operations by automating infrastructure, deployments, and monitoring.",
+        "required_skills": [
+            "Linux",
+            "Docker",
+            "CI/CD",
+            "Git",
+            "AWS"
+        ],
+        "preferred_skills": [
+            "Kubernetes",
+            "Python",
+            "Agile",
+            "System Design",
+            "Cybersecurity"
+        ]
+    },
+    {
+        "title": "Data Engineer",
+        "description": "Builds and maintains scalable data infrastructure and ETL pipelines.",
+        "required_skills": [
+            "Python",
+            "SQL",
+            "Data Engineering",
+            "PostgreSQL",
+            "Git"
+        ],
+        "preferred_skills": [
+            "AWS",
+            "Docker",
+            "Linux",
+            "Machine Learning"
+        ]
+    },
+    {
+        "title": "Software Engineer (General)",
+        "description": "General software engineering role covering algorithms, system design, and software development best practices.",
+        "required_skills": [
+            "Algorithms",
+            "Object-Oriented Programming",
+            "Git",
+            "Testing"
+        ],
+        "preferred_skills": [
+            "Python",
+            "JavaScript",
+            "SQL",
+            "System Design",
+            "Agile"
+        ]
+    },
+    {
+        "title": "NLP Engineer",
+        "description": "Specializes in building natural language processing systems and applications.",
+        "required_skills": [
+            "Python",
+            "Machine Learning",
+            "Natural Language Processing",
+            "Python Data Science"
+        ],
+        "preferred_skills": [
+            "Deep Learning",
+            "PyTorch",
+            "TensorFlow",
+            "REST API",
+            "Docker"
+        ]
+    },
+    {
+        "title": "Cloud Engineer",
+        "description": "Designs, implements, and manages cloud infrastructure and services.",
+        "required_skills": [
+            "AWS",
+            "Linux",
+            "Docker",
+            "CI/CD",
+            "System Design"
+        ],
+        "preferred_skills": [
+            "Kubernetes",
+            "GCP",
+            "Cybersecurity",
+            "Python",
+            "Agile"
+        ]
+    }
+]
